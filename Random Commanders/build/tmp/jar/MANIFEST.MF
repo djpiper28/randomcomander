@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Manifest-Vesrion: 1.0
+Implementation-Title: Gradle
+Implementation-Version: 1.0-SNAPSHOT
+Created-By: Danny Piper
+Main-Class: djpiper28.randomcommander.main
+
